@@ -15,6 +15,7 @@
 		8DEDE4AF2D2B711300A6C048 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8DEDE4AD2D2B711300A6C048 /* LaunchScreen.storyboard */; };
 		8DEDE4B92D2B712100A6C048 /* PagerViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DEDE4B72D2B712100A6C048 /* PagerViewLayout.swift */; };
 		8DEDE4BA2D2B712100A6C048 /* PagerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DEDE4B82D2B712100A6C048 /* PagerView.swift */; };
+		8DFF0C412D55B219009980EF /* JCPopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DFF0C402D55B219009980EF /* JCPopView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		8DEDE4B02D2B711300A6C048 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8DEDE4B72D2B712100A6C048 /* PagerViewLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PagerViewLayout.swift; sourceTree = "<group>"; };
 		8DEDE4B82D2B712100A6C048 /* PagerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PagerView.swift; sourceTree = "<group>"; };
+		8DFF0C402D55B219009980EF /* JCPopView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JCPopView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				8DEDE4A22D2B711200A6C048 /* AppDelegate.swift */,
 				8DEDE4A42D2B711200A6C048 /* SceneDelegate.swift */,
 				8DEDE4A62D2B711200A6C048 /* ViewController.swift */,
+				8DFF0C402D55B219009980EF /* JCPopView.swift */,
 				8DEDE4B62D2B712100A6C048 /* PagerView */,
 				8DEDE4A82D2B711200A6C048 /* Main.storyboard */,
 				8DEDE4AB2D2B711300A6C048 /* Assets.xcassets */,
@@ -152,6 +155,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8DFF0C412D55B219009980EF /* JCPopView.swift in Sources */,
 				8DEDE4B92D2B712100A6C048 /* PagerViewLayout.swift in Sources */,
 				8DEDE4A72D2B711200A6C048 /* ViewController.swift in Sources */,
 				8DEDE4A32D2B711200A6C048 /* AppDelegate.swift in Sources */,
